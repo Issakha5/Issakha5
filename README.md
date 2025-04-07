@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm ISSAKHA
 
 <!--
 **Issakha5/Issakha5** is a ✨ SOFTWARE ENGINEER ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on DJANGO AND ODOO ...
+- 🌱 I’m currently learning DEVOPS
