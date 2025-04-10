@@ -79,13 +79,14 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<div>
+<div align="center" width="100%">
+  
+<div width="40%">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Issakha5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
-<div>
+<div width="40%">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Issakha5&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
