@@ -81,13 +81,13 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <div align="center" width="100%">
   
-<div width="40%">
+<img width="40%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Issakha5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Issakha5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"
+</img>
   
-<div width="40%">
+<img width="40%">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Issakha5&theme=dark&background=000000)](https://git.io/streak-stats)
-</div>
+src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Issakha5&theme=dark&background=000000)](https://git.io/streak-stats)"
+</img>
 </div>
