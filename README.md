@@ -83,7 +83,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <tr>
     <td valign="top">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issakha5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Issakha5&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" media="(prefers-color-scheme: dark)"/>
 </td>
 
    <td valign="top">
