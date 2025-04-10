@@ -27,16 +27,15 @@ Here are some ideas to get you started:
       <a href="https://x.com/djo_vision">
         <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
       </a>
-      <img src="https://komarev.com/ghpvc/?username=Issakha5&style=flat-square&color=blue" alt=""/>
     </div>
+      <img src="https://komarev.com/ghpvc/?username=Issakha5&style=flat-square&color=blue" alt=""/>
+  <h1>
+    hey there
+   <img  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV3b2dxNXVzbjZ2dHB2cmNxbnEzbW0yb2cyem5qYTZyZGwyOXZrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TKFLxDZE4TqNP7iJsT/giphy.gif" width="100px"/>
+    </h1>
 </div>
 
 
-
-<h1>
-  hey there
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV3b2dxNXVzbjZ2dHB2cmNxbnEzbW0yb2cyem5qYTZyZGwyOXZrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TKFLxDZE4TqNP7iJsT/giphy.gif" width="100px"/>
-</h1>
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXppNmNpbnBubTZsY3Qyb2hpcnVvbDlsbHhoN3FmY3RpbzZrOTRzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="600" height="300"/>
 </div>
