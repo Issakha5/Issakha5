@@ -1,7 +1,7 @@
-## Hi there 👋 I'm ISSAKHA
-
 <!--
 **Issakha5/Issakha5** is a ✨ SOFTWARE ENGINEER ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm ISSAKHA
+
 
 Here are some ideas to get you started:
 
@@ -17,24 +17,25 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/WD01fV9KSg4Vw3DYWc/200w.gif?cid=6c09b95277cnu1ciuixjctfzyief05363658ukme6s6vo5d8&ep=v1_gifs_search&rid=200w.gif&ct=g"/>
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/alpha-issakha-diallo/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="mailto:issakha.dev@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+      </a>
+      <a href="https://x.com/djo_vision">
+        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      </a>
+      <img src="https://komarev.com/ghpvc/?username=Issakha5&style=flat-square&color=blue" alt=""/>
+    </div>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/alpha-issakha-diallo/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="mailto:issakha.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://x.com/djo_vision">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 <h1>
   hey there
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV3b2dxNXVzbjZ2dHB2cmNxbnEzbW0yb2cyem5qYTZyZGwyOXZrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TKFLxDZE4TqNP7iJsT/giphy.gif" width="40px"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHV3b2dxNXVzbjZ2dHB2cmNxbnEzbW0yb2cyem5qYTZyZGwyOXZrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TKFLxDZE4TqNP7iJsT/giphy.gif" width="100px"/>
 </h1>
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXppNmNpbnBubTZsY3Qyb2hpcnVvbDlsbHhoN3FmY3RpbzZrOTRzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif" width="600" height="300"/>
