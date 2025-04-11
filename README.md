@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Senegal.
   
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a software engineer and I like backend more than frontend.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Always learning about cutting-edge technologies.
 
-- :zap: In my free time, I read Books and tech articles.
+- :zap: In my free time, I read books and tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alpha-issakha-diallo/)
   
