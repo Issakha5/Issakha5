@@ -24,8 +24,8 @@ Here are some ideas to get you started:
       <a href="mailto:issakha.dev@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
       </a>
-      <a href="https://x.com/djo_vision">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <a href="issakha5.github.io">
+        <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white&logoColor=white" alt="Portfolio Badge"/>
       </a>
     </div>
       <img src="https://komarev.com/ghpvc/?username=Issakha5&style=flat-square&color=blue" alt=""/>
